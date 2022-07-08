@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Used Webrtc for Video + Audio chat api",
   "author": "Deeepak Upadhyay",
+  "license": "OSL-3.0",
   "keywords": [
     "webrtc",
     "socket.io",
